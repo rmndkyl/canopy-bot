@@ -1,5 +1,9 @@
 # Canopy Network Bot
 
+🌐 **Website:** https://rewards.testnet.app.canopynetwork.org
+🔗 **Referral:** Referral code `MS0XTTYY`
+
+
 > Automated airdrop farming bot by **Layer Airdrop ID (LYID)**
 
 Automated bot for Canopy Network Testnet — dual platform automation (Rewards + Testnet), SIWE authentication, daily check-in, faucet claim, and task completion.
